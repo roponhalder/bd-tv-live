@@ -20,13 +20,13 @@ http://103.102.136.106:8080/cmcltv/tcm_live2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/95990198.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 10)
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/108409695.jpg" group-title="BD Tv Live Sports", Women IPL T20 Match
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604951712/ei/QEqpX4uBKOLm4-EP7qmIqAc/ip/103.134.227.65/id/E8WrgVQBXR8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJGaIvGYejq7u9eW37vV3dBuSvhN3CV5_5tUlhT3Pn7ZAiEAv2I_QkF88Le7GD_6Bu0i63-CMbJbM1oKXGe3cp5nNzQ%3D/file/index.m3u8
+http://bdiptv.net:8080/StarJalshaHD/embed.html|tokenUrl:/4|Referer:http://bdiptv.net/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/112109168.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://sonydai.akamaized.net/hls/live/2005444/DAI7ME/master.m3u8?hdnea=exp=1604918759~acl=/*~hmac=dbbb0171a5ebc48fe80b97cb6c949c6b20b4616817fbd03470073d8bc9a5bb4e
+http://bdiptv.net:8080/StarJalshaHD/tracks-v1a1/mono.m3u8|Referer:http://bdiptv.net:8080/StarJalshaHD/embed.html
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378125.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://phokingways.buzz/api/livsports/play.m3u8?id=1000065174&drm=false&url=https://sonydai.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8&tvauth=nybnlNVFl3TkRnME1ESTJNUT09CjpmYjhkNDMwYTJjNjRjNGJlZDNkNjcyYWYwZWQyYTE5NQ==&channelid=qD2ZTRUVFZlYjUzNWI0MjE5MDQ5NDVjLWluLWFuZHJvaWQtZmZmZmZmZmYtZjk5NS0wNzM2LWZmZmYtZmZmZmVmMDVhYzRhaB
+http://bdiptv.net:8080/StarJalshaHD/tracks-v1a1/mono.m3u8|Referer:http://bdiptv.net:8080/StarJalshaHD/embed.html|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/111911464.jpg" group-title="BD Tv Live Sports", Live Football Match
-http://globalbanglatv.com:80/sristy-tv/|Referer:http://globalbanglatv.com/jago-bangla-tv
+http://bdiptv.net:8080/StarJalshaHD/tracks-v1a1/mono.m3u8|Referer:http://bdiptv.net
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378127.jpg" group-title="BD Tv Live Sports", Live Football Match
 https://mhdtvworld.live/stream/colors-cineplex-hd|Referer:https://mhdtvworld.live/tv-channels/hindi-movies/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378580.jpg" group-title="BD Tv Live Sports", Live Football Match
