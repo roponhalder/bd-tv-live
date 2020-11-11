@@ -6,7 +6,7 @@ http://iboxbd.live/player.php?stream=27|tokenUrl:/4|Referer:http://iboxbd.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/90398703.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 3)
 http://iboxbd.live/player.php?stream=25|tokenUrl:/4|Referer:http://iboxbd.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/90196929.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 4)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604863439/ei/b_GnX8_oCdXN4-EPguCUqAQ/ip/103.134.227.69/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALDJIuW7m1wAImoe8FErdm_PuWwlli6cbAIZBcmOqva1AiBujyzt1vilIrOFL0vX0gGGMpUAht56bx60BSJzbw6AfA%3D%3D/file/index.m3u8
+https://mhdtvworld.live/delta/redbox/getplay.php?c=2026|tokenUrl:/4|Referer:https://mhdtvworld.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/bebd95e0-20f3-11eb-b31e-31507c9b36dd/796751/133488904.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 5)
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/90388435.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 6)
