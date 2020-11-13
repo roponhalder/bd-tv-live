@@ -28,9 +28,9 @@ http://bdiptv.net:8080/StarJalshaHD/tracks-v1a1/mono.m3u8|Referer:http://bdiptv.
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/111911464.jpg" group-title="BD Tv Live Sports", Live Football Match
 http://bdiptv.net:8080/StarJalshaHD/tracks-v1a1/mono.m3u8|Referer:http://bdiptv.net|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378127.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://mhdtvworld.live/stream/colors-cineplex-hd|Referer:https://mhdtvworld.live/tv-channels/hindi-movies/|tokenUrl:/4
+http://62.210.139.222:8081/yacinetv/BeinHD2/playlist.m3u8|tokenUrl:/4|Referer:yacineapp.tv
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378580.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://mhdtvworld.live/stream/colors-cineplex-hd|Referer:https://mhdtvworld.live/|tokenUrl:/4
+http://62.210.139.222:8081/yacinetv/BeinHD2/playlist.m3u8|Referer:yacineapp.tv
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378580.jpg" group-title="BD Tv Live Sports", WWE Live Match
 http://tv.bdtv.xyz:8080/vZwThe0JFU9OxZfLeH9B6CW/sonypix/chunks.m3u|Referer:http://channel.bdiptv.pw/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660517/118783538.jpg" group-title="Bangla", Ropon TV
